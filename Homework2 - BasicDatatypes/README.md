@@ -1,10 +1,10 @@
 # CSC600
 The goal of this homework is to perform experiments with basic data types and to show limitations of basic arithmetic operations. The benefit of this homework is to systematically identify problems related to limited size of various data formats of integers and real numbers, and to learn how to avoid such problems in your programs. In addition, we are interested in popular library functions and basic nonnumeric data formats.
 
-Write a C++ main program that has the following 10 short independent segments.
+# Write a C++ main program that has the following 10 short independent segments.
 
-1. Show that for unsigned int a,b and a>0, b>0, we can get a+b < a
-2. Show that for int a,b and a>0, b>0, we can get a+b < 0
+	1. Show that for unsigned int a,b and a>0, b>0, we can get a+b < a
+	2. Show that for int a,b and a>0, b>0, we can get a+b < 0
 3. Show that for int a,b and a<0, b<0, we can get a+b > 0
 4. Show that for double x and x>0 we can get 1. + x = = 1.
 5. Show that for double a,b,c in some cases (a+b)+c != (c+b)+a
