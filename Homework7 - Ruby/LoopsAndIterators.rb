@@ -76,3 +76,6 @@ puts "\nstep"
 (15..45).step(3) do |i|
 	puts i
 end
+
+
+
